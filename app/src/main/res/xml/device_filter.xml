@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="ERROR">
+    <usb-device vendor-id="1423" product-id="38208" />
+</resources>
